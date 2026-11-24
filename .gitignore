@@ -1,0 +1,8 @@
+medico_env/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+data/*.pdf
+database/
